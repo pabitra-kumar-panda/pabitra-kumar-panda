@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabitra Kumar Panda</h1>
-<h3 align="center">Data Analysis| Graphics Designing | Video Editing | Web Development</h3>
+<h3 align="center">Data Analysis | Graphics Designing | Video Editing | Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra-kumar-panda&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-kumar-panda" /> </p>
 
