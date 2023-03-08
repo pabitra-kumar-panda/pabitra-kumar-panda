@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **pkpdps2000@gmail.com**
 
+- 📫 My Portfolio Link **https://pabitraportfolio.my.canva.site/**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y0XJ8jPBUILyYL4zgelLH_KqAi7W3R0f/view?usp=share_link](https://drive.google.com/file/d/1Y0XJ8jPBUILyYL4zgelLH_KqAi7W3R0f/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
